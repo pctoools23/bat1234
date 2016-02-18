@@ -249,7 +249,6 @@ function create_config( )
     "plugins"
     },
     sudo_users = {36960550},--Sudo users
-    sudo_users = {121210874},--sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[roboplus 2.3
