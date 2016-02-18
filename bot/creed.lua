@@ -235,6 +235,18 @@ function create_config( )
     "invite",
     "all",
     "leave_ban"
+    "Echo",
+    "admin"
+    "time"
+    "lock_username"
+    "linkpv"
+    "kickme"
+    "info & setrank"
+    "google"
+    "lock_chat"
+    "addplug"
+    "add_bot"
+    "plugins"
     },
     sudo_users = {36960550},--Sudo users
     sudo_users = {121210874},--sudo users
