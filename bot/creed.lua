@@ -240,7 +240,7 @@ function create_config( )
     sudo_users = {121210874},--sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[roboplus 2.3
     
      Hello my Good friends 
      
